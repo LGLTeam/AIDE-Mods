@@ -59,3 +59,11 @@ Press play to compile the project
 If successful, it will ask you to install the APK. It may ask you to allow installation from unknown sources. Please allow when asked
 
 Run the app
+
+# AIDE Troubleshooting
+
+Problem with the project like app crashes: click **More... -> Project -> Refresh Build**. This will clear the project cache and fix problems
+
+Problem with AIDE: Open System Settings -> Apps and clear data of AIDE app. This will reset everything and you need to install NDK again
+
+AIDE has a lot of compatibility issues, you need to research a lot and do some trial and errors until you fix something.
