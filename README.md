@@ -4,6 +4,7 @@ AIDE is an integrated development environment (IDE) for real Android Application
 # Download
 APK Mods
 * [AIDE CMODs 3.2.200108 (Editt-CMODs/CoRinga Modz)](https://secufiles.com/nE9J/AIDE_CMODs_3.2.200108.apk) (Recommended version)
+* [AIDE Mod 3.2.190514 (timscriptov)](https://mega.nz/file/fFImjR6A#pfFzt6vhKpvDx2EFAl_eWgozmvequBxun3e7oUA-SNs)
 * [AIDE Lite Mod 3.2.190514 (timscriptov)](https://mega.nz/file/bIpCQL6I#BzyLf1pB1Sf7EayW_PEJHl3f50qHHZDdb0BpB8FYdVo)
 
 NDK
