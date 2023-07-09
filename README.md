@@ -1,15 +1,46 @@
 # AIDE Mods
 AIDE is an integrated development environment (IDE) for real Android Applications directly on Android devices. These mods works better than the original AIDE.
 
-# Download
-APK Mods
-* [AIDE CMODs 3.2.200108 (Editt-CMODs/CoRinga Modz)](https://secufiles.com/nE9J/AIDE_CMODs_3.2.200108.apk) (Recommended version)
-* [AIDE Mod 3.2.190514 (timscriptov)](https://mega.nz/file/fFImjR6A#pfFzt6vhKpvDx2EFAl_eWgozmvequBxun3e7oUA-SNs)
-* [AIDE Lite Mod 3.2.190514 (timscriptov)](https://mega.nz/file/bIpCQL6I#BzyLf1pB1Sf7EayW_PEJHl3f50qHHZDdb0BpB8FYdVo)
+# AIDE Lite Mod 3.2.190514 (Recommended)
+Features:
+- Custom save path for maven dependencies
+- DX, DEX v29.0.2
+- ApkSigner SHA-256
+- 🛡Resource encryption
+- Disable ADRT debugging in settings
+- Added new templates
+- Autocomplete logins and passwords(by _Maximoff_ )
+- Re theme factor(by Mr Ikso )
+- Premium
+- aapt binary 29
+- aapt-obf binary 29(mod)
+- android.jar 33
+- Russian interface
+- Chinese interface
+- Web unlocked
+- 🛡ProGuard 6.0.3
+- Lessons cut
+- Examples cut code
+- Changed templates
+- arm64 , x86, armeabi-v7a, x86_64 (Build mips, mips64 and armeabi is not supported since ndk-r17)
+- Disabled auto-rotation
 
-NDK
-* [ndk_arm.tar.gz](https://mega.nz/folder/2c1TWIJD#UCzO7kIo1e4WpFwZHIMYVw/file/XRlRTIjJ) - NDK for 32-bit/ARMv7 phones
-* [ndk_arm64.tar.gz](https://mega.nz/folder/2c1TWIJD#UCzO7kIo1e4WpFwZHIMYVw/file/7RdTzYxQ) - NDK for 64-bit/ARM64 phones
+**Download:**
+- https://mega.nz/file/HQZn1TSS#o0CHHbteuL9wg7dOI5RGBSXHOE6cBU8tsIemzOU7LkQ
+
+**Credits:**
+- timscriptov
+
+# AIDE CMODs 3.2.200108
+**Download:**
+- https://mega.nz/file/qJB3nIwS#ZVFVq9c7-gogIIyporSgtv_HF1DXfxjLN65hWO_ECk0
+
+**Credits:**
+- Editt-CMODs/CoRinga Modz
+
+# NDK
+* [ndk_arm64.tar.gz](https://mega.nz/file/CRhzjC7K#mTY9bsYXanfTfINtq5_9CFdWTfWLHbQdKVmF_rHBVaY) - NDK for 64-bit/ARM64 phones
+* [ndk_arm.tar.gz](https://mega.nz/file/LZJH0SaJ#nCJerxA5McbQULJ_bRcDWzWVQL8LWvuQDlZIW7ZRHsk) - NDK for 32-bit/ARMv7 phones
 
 # Setting up AIDE
 
